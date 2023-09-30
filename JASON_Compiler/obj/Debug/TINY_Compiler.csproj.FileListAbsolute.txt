@@ -1,0 +1,34 @@
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\ITECH\OneDrive\Desktop\FCIS_Doaa\FCIS Doaa 5th term\Compiler Theory\Labs\Lab 8\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\HUAWEI\Desktop\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csprojAssemblyReference.cache
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+E:\3rd year\5th semester\Compiler Theory\Project\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
